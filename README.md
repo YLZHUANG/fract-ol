@@ -21,8 +21,8 @@ Although fractals are mathematically infinitely detailed, the maximum zoom depth
 This implementation uses **long double** for extended precision. In the bonus version, pressing `+` increases the iteration depth by 500, allowing significantly deeper exploration.
 
 <p align="center">
-    <img src="screenshots/MandelbrotRed.png" width="50%">
-    <img src="screenshots/Mandelbrot.png" width="50%">
+    <img src="Screenshots/MandelbrotRed.png" width="40%">
+    <img src="Screenshots/Mandelbrot.png" width="40%">
 </p>
 
 ---
@@ -42,10 +42,10 @@ This implementation uses **long double** for extended precision. In the bonus ve
 ### Bonus Features
 
 <p align="center">
-  <img src="screenshots/BurningShip.png" width="25%">
-  <img src="screenshots/BurningShip2.png" width="25%">
-  <img src="screenshots/Julia.png" width="25%">
-  <img src="screenshots/JuliaBlue.png" width="25%">
+  <img src="Screenshots/BurningShip2.png" width="20%">
+  <img src="Screenshots/BurningShip.png" width="20%">
+  <img src="Screenshots/Julia.png" width="20%">
+  <img src="Screenshots/JuliaBlue.png" width="20%">
 </p>
 
 - Additional fractal (Burningship)
@@ -138,7 +138,7 @@ B    : Burningship    W{100, 800} H{100, 800}
 
 ---
 
-# 🧾 Notes
+# 💙 Notes
 
-**For learning purposes :** This project represents my exploration of transforming mathematical formulas into interactive, infinitely evolving visuals. 
+**For learning purposes only :** This project represents my exploration of transforming mathematical formulas into interactive, infinitely evolving visuals. 
 The code isn’t perfect, but it’s clean and doesn’t leak memory.
